@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'InstaCallBlocker'" />
+    <option name="defaultScopeName" value="Project 'InstaCallBlocker'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'InstaCallBlocker'" />
+  </component>
+</application>
