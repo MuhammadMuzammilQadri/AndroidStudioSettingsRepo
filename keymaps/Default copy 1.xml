@@ -8,7 +8,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl numpad4" />
   </action>
-  <action id="EditorActions">
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl numpad6" />
   </action>
   <action id="SwitchApply">
