@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\aik\alemni\ui\activities\FabMenuActivity.java'" />
-    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\aik\alemni\ui\activities\FabMenuActivity.java'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\aik\alemni\ui\activities\FabMenuActivity.java'" />
+    <option name="customScope" value="Project 'Alemni'" />
+    <option name="defaultScopeName" value="Project 'Alemni'" />
+    <option name="SEARCH_SCOPE" value="Project 'Alemni'" />
   </component>
 </application>
